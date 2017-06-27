@@ -1,6 +1,6 @@
 # Wumpus World
 
-The Wumpus World problem is a well known problem in the domain of artificial intelligence. This is an implementation of a simple problem solving agent that can navigate the Wumpus World, as a part of an introductory course on AI.
+The Wumpus World problem is a well known problem in the domain of artificial intelligence. This is an implementation in Prolog of a simple problem solving agent that can navigate the Wumpus World, as a part of an introductory course on AI.
 
 ## Simple Problem Solving Agent
 
